@@ -1,0 +1,30 @@
+writedb
+jdbcurl: jdbc:mysql://us-cdbr-iron-east-04.cleardb.net/ad_b8d7369f4147ad0?user=b9ebda54280bb6&amp;amp;amp;password=242fd345
+
+brightschools
+jdbc:mysql://us-cdbr-iron-east-04.cleardb.net/ad_d349419c61c9fa6?user=be0606ca7406f9&amp;amp;amp;password=6807bb60
+
+karai
+jdbc:mysql://us-cdbr-iron-east-04.cleardb.net/ad_65a34f307c17bf3?user=b88665cf03f7d7&amp;amp;amp;password=9e1be519
+
+butonge
+jdbc:mysql://us-cdbr-iron-east-04.cleardb.net/ad_b46d3f90113f5a4?user=b202664fce2fe0&amp;amp;amp;password=49d4cb40
+
+namachanja
+jdbc:mysql://us-cdbr-iron-east-04.cleardb.net/ad_2b2aefdc9339308?user=b3b336d4b79392&amp;amp;amp;password=07092b0b
+
+schooluseraccounts
+jdbc:mysql://us-cdbr-iron-east-04.cleardb.net/ad_4670026bb46d88f?user=b69af67984e089&amp;amp;amp;password=735700cc
+
+bushili
+jdbc:mysql://us-cdbr-iron-east-04.cleardb.net/ad_c098984d2babc40?user=bf18371315be83&amp;amp;amp;password=04f591d9
+
+lutaso
+jdbc:mysql://us-cdbr-iron-east-04.cleardb.net/ad_a92dac0ad97a980?user=b74afd54bcc93c&amp;amp;amp;password=7a00458e
+
+messagebroker
+user: sldhcdnx
+password: ADav9NjZMBDFg9VPxHTPpqwwL-y62nFo 
+virtualhost: sldhcdnx
+url: amqp://sldhcdnx:ADav9NjZMBDFg9VPxHTPpqwwL-y62nFo@jellyfish.rmq.cloudamqp.com/sldhcdnx
+server: amqp://sldhcdnx:ADav9NjZMBDFg9VPxHTPpqwwL-y62nFo@jellyfish.rmq.cloudamqp.com/sldhcdnx

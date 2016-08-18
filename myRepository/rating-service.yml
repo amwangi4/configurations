@@ -1,0 +1,17 @@
+server:
+  port:5007
+#message = Hello World!!
+
+#spring.datasource.url=jdbc:mysql://localhost:3306/thescholar
+#spring.datasource.username=root
+#spring.datasource.password=root
+#spring.datasource.driverClassName=com.mysql.jdbc.Driver
+
+# define the destination to which the input MessageChannel should be bound
+#spring.cloud.stream.bindings.input.destination = reservations
+
+# ensures 1 node in a group gets message (point-to-point, not a broadcast)
+#spring.cloud.stream.bindings.input.group = reservations
+
+# ensure that the Q is durable
+#spring.cloud.stream.bindings.input.durableSubscription = true
